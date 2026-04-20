@@ -1,0 +1,7 @@
+frontend/* linguist-detectable=false
+frontend/**/*.js linguist-detectable=false
+frontend/**/*.jsx linguist-detectable=false
+frontend/**/*.ts linguist-detectable=false
+frontend/**/*.tsx linguist-detectable=false
+frontend/**/*.css linguist-detectable=false
+frontend/**/*.html linguist-detectable=false
